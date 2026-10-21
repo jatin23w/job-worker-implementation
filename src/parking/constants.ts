@@ -1,0 +1,1 @@
+export const PARKING_REPOSITORY = Symbol('PARKING_REPOSITORY');
