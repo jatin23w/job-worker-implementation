@@ -1,1 +1,1 @@
-export const PARKING_REPOSITORY = Symbol('PARKING_REPOSITORY');
+export const JOB_REPOSITORY = Symbol('JOB_REPOSITORY');
